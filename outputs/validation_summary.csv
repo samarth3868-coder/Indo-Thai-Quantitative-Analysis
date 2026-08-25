@@ -1,0 +1,6 @@
+symbol,rows,duplicate_rows,duplicate_timestamps,invalid_timestamps,missing_values_total,invalid_ohlc_rows,zero_volume_rows,sessions,earliest_timestamp,latest_timestamp,nonstandard_sessions,modal_session_length
+RELIANCE,277510,0,0,0,5420,0,190,744,2023-08-21 09:15:00,2026-08-19 15:29:00,6,375
+HDFCBANK,277510,0,0,0,5420,1,187,744,2023-08-21 09:15:00,2026-08-19 15:29:00,6,375
+NYKAA,277508,0,0,0,6166,0,191,744,2023-08-21 09:15:00,2026-08-19 15:29:00,7,375
+HAL,277510,0,0,0,5420,1,187,744,2023-08-21 09:15:00,2026-08-19 15:29:00,6,375
+RVNL,277509,0,0,0,5418,0,191,744,2023-08-21 09:15:00,2026-08-19 15:29:00,6,375
